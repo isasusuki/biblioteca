@@ -1,0 +1,6 @@
+{
+  "name": "BiblioFicha - Gestão Bibliotecária e Fichas Físicas",
+  "description": "Sistema web completo para digitalização de fichas físicas, acervo, leitores, empréstimos com controle automático de datas e mural comunitário.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
